@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to **张子诚 个人主页**
 
-You can use the [editor on GitHub](https://github.com/zzc-zone/zzc-zone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[Link](zzc.zone) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Link](baidu.com) 
 
-```markdown
-Syntax highlighted code block
+[Image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1572929873493&di=a66b8d1d35140cd65722e14ecfb8bc00&imgtype=0&src=http%3A%2F%2Fpic51.nipic.com%2Ffile%2F20141023%2F9448607_180601879909_2.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzc-zone/zzc-zone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[11月6日作业](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1572929873493&di=a66b8d1d35140cd65722e14ecfb8bc00&imgtype=0&src=http%3A%2F%2Fpic51.nipic.com%2Ffile%2F20141023%2F9448607_180601879909_2.jpg)
