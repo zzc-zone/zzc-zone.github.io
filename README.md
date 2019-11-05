@@ -4,6 +4,6 @@
 
 
 
-[baidu](baidu.com) 
+[baidu](www.baidu.com) 
 
 [11月6日作业](https://github.com/zzc-zone/zzc-zone.github.io/blob/master/github/20191105-01.jpg)
