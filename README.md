@@ -7,3 +7,6 @@
 [baidu](www.baidu.com) 
 
 ![11月6日  作业](https://github.com/zzc-zone/zzc-zone.github.io/blob/master/PIC/zzc1.jpg)
+![11月6日  作业](https://github.com/zzc-zone/zzc-zone.github.io/blob/master/zzc1.jpg)
+
+
