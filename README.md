@@ -8,6 +8,6 @@
 
 ![11月6日  作业](https://github.com/zzc-zone/zzc-zone.github.io/blob/master/PIC/zzc1.jpg)
 
-![作业](https://github.com/zzc-zone/zzc-zone.github.io/blob/master/zzc1.jpg)
+![搜狗截图19年11月05日1212_1.jpg](https://i.loli.net/2019/11/05/FUbNlCokszLvWxJ.jpg)
 
-![百度](https://www.baidu.com/img/bd_logo1.png)
+
