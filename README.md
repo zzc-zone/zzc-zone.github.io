@@ -2,8 +2,8 @@
 
 
 
-[Link](zzc.zone) 
 
-[Link](baidu.com) 
+
+[baidu](baidu.com) 
 
 [11月6日作业](https://github.com/zzc-zone/zzc-zone.github.io/blob/master/github/20191105-01.jpg)
