@@ -6,4 +6,4 @@
 
 [baidu](www.baidu.com) 
 
-[11月6日作业](https://github.com/zzc-zone/zzc-zone.github.io/blob/master/github/20191105-01.jpg)
+![11月6日作业](https://github.com/zzc-zone/zzc-zone.github.io/blob/master/zzcpic/20191105.jpg)
